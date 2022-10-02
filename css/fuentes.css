@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "f1-display-bold";
+    src: url(../fonts/Formula1-Bold_web_0.ttf);
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "f1-display-regular";
+    src: url(../fonts/Formula1-Regular_web_0.ttf);
+    font-style: normal;
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: "f1-display-wide";
+    src: url(../fonts/Formula1-Wide_web_0.ttf);
+    font-style: normal;
+    font-weight: bolder;
+}
+
