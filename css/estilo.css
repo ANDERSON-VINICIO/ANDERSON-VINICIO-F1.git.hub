@@ -338,7 +338,7 @@ section:nth-child(3)::before {
     opacity: 0.5;
     left: 0px;
     top: 0px;
-    background-image: url(/img/fondo_movil.jpg);
+    background-image: url(../img/fondo_movil.jpg);
     background-attachment: fixed;
     width: 100%;
     height: 100%;
@@ -993,7 +993,7 @@ section:nth-child(3)::before {
     opacity: 0.5;
     left: 0px;
     top: 0px;
-    background-image: url(/img/fondo_escritorio.jpg);
+    background-image: url(../img/fondo_escritorio.jpg);
     background-attachment: fixed;
     width: 100%;
     height: 100%;
